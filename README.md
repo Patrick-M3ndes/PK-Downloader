@@ -1,6 +1,7 @@
 PK Downloader 2025
 
 O downloader mais poderoso e simples do Brasil
+
 YouTube • TikTok • Instagram • Twitter/X • Facebook • SoundCloud + 1.500 sites
 Feito com carinho por Patrick Mendes
 
