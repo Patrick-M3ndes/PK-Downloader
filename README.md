@@ -1,66 +1,58 @@
-PK Downloader 2025
+PK Downloader 🚀
+Um Downloader simples e poderoso! YouTube • TikTok • Instagram • Twitter/X • Facebook • SoundCloud + 1.500 sites
 
-O downloader mais poderoso e simples do Brasil
+Desenvolvido com dedicação por Patrick Mendes
 
-YouTube • TikTok • Instagram • Twitter/X • Facebook • SoundCloud + 1.500 sites
-Feito com carinho por Patrick Mendes
+✨ Funcionalidades
+Vídeo até 4K e Áudio MP3 320 kbps.
 
-Funcionalidades
+Portátil: Um único executável (acompanhado dos arquivos de sistema).
 
-Vídeo até 4K
-Áudio MP3 320 kbps
-Um único executável (ou 4 arquivos no total)
-Lembra a última pasta que você escolheu
-Totalmente OFFLINE depois de baixar
-Funciona em qualquer Windows (7/8/10/11)
+Inteligente: O programa lembra a última pasta que você escolheu.
 
-Como usar (passo a passo SUPER FÁCIL)
+Offline: Totalmente funcional após o download inicial.
 
-Baixe os arquivos
-Clique em Releases (lado direito) → pegue a versão mais recente → baixe os 4 arquivos:
-PK Downloader 2025.exe
+Compatibilidade: Funciona em qualquer Windows (7/8/10/11).
+
+📥 Como usar (Passo a passo SUPER FÁCIL)
+Baixe a versão oficial atualizada:
+
+Acesse a seção Releases no lado direito da página.
+
+Baixe a versão mais recente que eu publiquei (Corrigida contra o erro 403):
+
+PK Downloader.exe (O arquivo principal)
+
 ffmpeg.exe
+
 ffprobe.exe
-ffplay.exe (opcional, mas pode baixar)
 
-Crie uma pasta no lugar que você quiser
-Exemplo:
-C:\PK Downloader
-ou
-Área de Trabalho\PK Downloader
-Coloque os 4 arquivos dentro da mesma pasta
-Exemplo:
-Pasta PK:
-├── PK Downloader 2025.exe
-├── ffmpeg.exe
-├── ffprobe.exe
-└── ffplay.exe
-Crie um atalho (opcional, mas fica lindo)
-Clique com botão direito no PK Downloader 2025.exe
-Enviar para → Área de trabalho (criar atalho)
-Renomeie o atalho se quiser: “PK Downloader” ou “Baixar Vídeos”
+ffplay.exe (opcional)
 
-PRONTO!
-Agora é só dar dois cliques no executável (ou no atalho) e usar à vontade!
+Organize sua pasta:
 
-Primeira vez usando?
+Crie uma pasta onde preferir (ex: C:\PK Downloader).
 
-Cole o link do vídeo ou música
-Escolha Vídeo ou Áudio
-Escolha a qualidade (ou “Melhor possível até 4K”)
-Clique em BAIXAR AGORA
-O arquivo vai direto pra pasta que você escolheu (e o programa lembra da próxima vez!)
+Atenção: Coloque todos os arquivos baixados juntos na mesma pasta para o programa funcionar corretamente.
 
-Dúvidas comuns
-“Preciso instalar alguma coisa?” → Não! Só os 4 arquivos juntos.
-“Posso colocar no pen drive?” → Sim! Copie a pasta inteira pro pen drive e use em qualquer PC.
-“Posso mandar no WhatsApp?” → Pode! Zipa a pasta e envia (fica ~150 MB).
-Quer ajudar o projeto?
+Crie seu atalho:
 
-Deixe uma estrela aqui no GitHub
-Compartilhe com os amigos
-Me chama no WhatsApp se quiser sugerir algo novo
+Clique com o botão direito no PK Downloader.exe.
 
-Feito com carinho por Patrick Mendes
-Qualquer coisa é só chamar!
-Divirta-se baixando o mundo inteiro!
+Selecione Enviar para → Área de trabalho (criar atalho).
+
+❓ Dúvidas comuns
+"Está dando erro 403 Forbidden?" → Eu já atualizei o motor do programa! Basta baixar a versão mais recente na aba de Releases.
+
+"Preciso instalar algo no Windows?" → Não. O projeto foi feito para ser "clicar e usar".
+
+"O programa não abre?" → Verifique se o seu antivírus não bloqueou o executável por engano e se os arquivos ffmpeg estão na mesma pasta.
+
+⭐ Apoie o projeto
+Deixe uma estrela aqui no GitHub para ajudar o projeto a crescer.
+
+Compartilhe com quem precisa de um downloader de verdade!
+
+Tem alguma sugestão? Me chama no WhatsApp e vamos trocar uma ideia (41) 98435-8970.
+
+Feito por Patrick Mendes. Divirta-se baixando o mundo inteiro! 🌎
